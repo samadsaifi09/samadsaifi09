@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+![logo](https://github.com/samadsaifi09/samadsaifi09/blob/main/Navy%20Modern%20Software%20Development%20Business%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Samad Saifi</h1>
 <h3 align="center">I am a Software Engineer student with a passion for learning and innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
