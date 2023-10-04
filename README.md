@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing Artificial Inteligence and Machine Learning**
 
-- 👯 I’m looking to collaborate on **GDG and MLSA**
+- 👯 I’m looking to collaborate on **Community**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
