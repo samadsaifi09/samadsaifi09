@@ -1,4 +1,4 @@
-![logo](https://github.com/samadsaifi09/samadsaifi09/blob/main/Navy%20Modern%20Software%20Development%20Business%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/samadsaifi09/samadsaifi09/blob/main/Navy%20Modern%20Software%20Development%20Business%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Samad Saifi</h1>
 <h3 align="center">I am a Software Engineer student with a passion for learning and innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
